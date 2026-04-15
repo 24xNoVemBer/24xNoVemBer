@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20cuong--sadboi-000000?style=for-the-badge&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hello%2C%2024xNoVemBer-000000?style=for-the-badge&logo=starship&logoColor=white" />
 
   <h1>🌌 Welcome to my universe</h1>
   <h3>AI/ML Engineer (Research-Oriented) | Exploring Computer Vision</h3>
 
   <br>
-  <img src="https://komarev.com/ghpvc/?username=cuong-sadboi&color=F700FF" />
+  <img src="https://komarev.com/ghpvc/?username=24xNoVemBer&color=F700FF" />
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ### 🧠 About Me
 
-I’m a beginner AI/ML engineer with a strong interest in **research-driven development**, especially in the field of **Computer Vision**.
+I’m an aspiring AI/ML engineer with a strong interest in **research-oriented learning**, especially in **Computer Vision**.
 
-* 🔍 Currently building a **content moderation model**, exploring how machine learning systems can be applied to real-world problems.
-* 📚 Actively studying **Machine Learning & Deep Learning fundamentals**, focusing on understanding how models work beyond just using them.
-* 🚀 Long-term goal: pursue **AI research in Computer Vision**, particularly in representation learning and real-world applications.
+* 🔍 Currently working on a **content moderation model**, exploring how machine learning systems handle real-world data.
+* 📚 Building a solid foundation through hands-on practice in **Machine Learning, Data Processing, and Model Training**.
+* 🚀 Long-term goal: contribute to **AI research in Computer Vision**, focusing on practical and scalable systems.
 
 ---
 
@@ -64,17 +64,12 @@ I’m a beginner AI/ML engineer with a strong interest in **research-driven deve
 
 ---
 
-### 🚧 Projects (In Progress)
+### 🚧 Learning Journey
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Currently_Building-Content_Moderation_Model-F700FF?style=for-the-badge"/>
-
-</div>
-
-* 🧪 Developing a **machine learning model for content moderation**
-* 🎯 Focus: classification & real-world deployment challenges
-* ⚙️ Stack: Python, PyTorch (in progress)
+* 📘 Python & Data Science fundamentals (NumPy, Pandas, Matplotlib)
+* 🧪 Practicing ML concepts (Logistic Regression, data processing)
+* ⚙️ Experimenting with C++ implementations for algorithmic thinking
+* 🔬 Exploring Deep Learning with datasets like CIFAR
 
 ---
 
@@ -82,9 +77,9 @@ I’m a beginner AI/ML engineer with a strong interest in **research-driven deve
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuong-sadboi&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=24xNoVemBer&show_icons=true&theme=synthwave&hide_border=true&border_radius=10" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong-sadboi&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24xNoVemBer&layout=compact&theme=synthwave&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -98,8 +93,8 @@ I’m a beginner AI/ML engineer with a strong interest in **research-driven deve
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-ab7569362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/24xNoVemBer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
@@ -109,7 +104,7 @@ I’m a beginner AI/ML engineer with a strong interest in **research-driven deve
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/24xNoVemBer/24xNoVemBer/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
