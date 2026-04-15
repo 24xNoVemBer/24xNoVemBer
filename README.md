@@ -104,7 +104,7 @@ I’m an aspiring AI/ML engineer with a strong interest in **research-oriented l
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/24xNoVemBer/24xNoVemBer/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/24xNoVemBer/24xNoVemBer/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
