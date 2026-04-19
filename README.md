@@ -89,7 +89,7 @@ I’m an aspiring AI/ML engineer with a strong interest in **research-oriented l
 
 <div align="center">
 
-  <a href="mailto:cuong15122004@gmail.com">
+  <a href="mailto:handay2411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
